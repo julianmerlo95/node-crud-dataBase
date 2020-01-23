@@ -1,0 +1,9 @@
+{"message":" - El usuario 1 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario 1 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario 1 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario 1 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario -1 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario -1123 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario 1 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario 1 se ha encontrado correctamente.","level":"info"}
+{"message":" - El usuario { id: '4',\n  name: 'Julian',\n  lastName: 'Merlo',\n  email: 'julian@gmail.com',\n  _id: 5e28d9088662112003f93203 } se ha creado correctamente.","level":"info"}
